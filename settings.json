@@ -38,7 +38,6 @@
 		"finalised",
 		"generate",
 		"inflector",
-		"lookbook",
 		"matric",
 		"nightsbridge",
 		"omnipay",
@@ -82,6 +81,6 @@
 	"[php]": {
 	},
 	"yaml.schemas": {
-		"file:///c%3A/Users/Kyle/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+		"file:///home/kyleb/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
 	}
 }

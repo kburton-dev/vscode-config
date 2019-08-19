@@ -6,7 +6,11 @@ _The purpose is to keep my machines in sync with one another._
 
 ## Syncing (using Symlink)
 
-The **symlinks** must be _hard links_, otherwise VS Code will display errors about _to many link loop_ or something like that.
+```
+ln -s ~/Projects/vscode-config/settings.json ~/.config/Code/User/settings.json
+ln -s ~/Projects/vscode-config/keybindings.json ~/.config/Code/User/keybindings.json
+ln -s ~/Projects/vscode-config/snippets ~/.config/Code/User/snippets/
+```
 
 ### Windows
 ```
