@@ -82,5 +82,8 @@
 	},
 	"yaml.schemas": {
 		"file:///home/kyleb/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+	},
+	"files.associations": {
+		"*.ctp": "php"
 	}
 }
