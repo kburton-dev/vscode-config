@@ -17,7 +17,7 @@
 	// }
 	"If_Statement-html": {
 		"prefix": "if",
-		"scope": "html,php",
+		"scope": "html",
 		"body": [
 			"<?php if (${1:condition}): ?>",
 			"",
@@ -116,7 +116,7 @@
 		"scope": "html",
 		"body": [
 			"<?php",
-			"${1:content}",
+			"\t${1:content}",
 			"?>"
 		],
 		"description": "Create PHP block"
@@ -125,7 +125,7 @@
 		"prefix": "p",
 		"scope": "html",
 		"body": [
-			"<?= h(${1:content}) ?>"
+			"<?= ${1:content} ?>"
 		],
 		"description": "Create shorthand PHP block"
 	},
