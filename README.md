@@ -7,9 +7,9 @@ _The purpose is to keep my machines in sync with one another._
 ## Syncing (using Symlink)
 
 ```
-ln -s ~/Projects/vscode-config/settings.json ~/.config/Code/User/settings.json
-ln -s ~/Projects/vscode-config/keybindings.json ~/.config/Code/User/keybindings.json
-ln -s ~/Projects/vscode-config/snippets ~/.config/Code/User/snippets/
+ln -s ~/projects/vscode-config/settings.json ~/.config/Code/User/settings.json
+ln -s ~/projects/vscode-config/keybindings.json ~/.config/Code/User/keybindings.json
+ln -s ~/projects/vscode-config/snippets ~/.config/Code/User/
 ```
 
 ### Windows
