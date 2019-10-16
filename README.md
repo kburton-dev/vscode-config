@@ -26,7 +26,6 @@ code --install-extension atlassian.atlascode
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
-code --install-extension EditorConfig.EditorConfig
 code --install-extension fabiospampinato.vscode-diff
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
