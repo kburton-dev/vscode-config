@@ -38,4 +38,29 @@ code --install-extension octref.vetur
 code --install-extension pajdziu.trailingwhitespacehighlighter
 code --install-extension redhat.vscode-yaml
 code --install-extension streetsidesoftware.code-spell-checker
+
+atlassian.atlascode
+batisteo.vscode-django
+bmewburn.vscode-intelephense-client
+dbaeumer.vscode-eslint
+donjayamanne.python-extension-pack
+eamodio.gitlens
+fabiospampinato.vscode-diff
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+janisdd.vscode-edit-csv
+kokororin.vscode-phpfmt
+magicstack.MagicPython
+ms-azuretools.vscode-docker
+ms-python.python
+msjsdiag.vscode-react-native
+neilbrayfield.php-docblocker
+octref.vetur
+pajdziu.trailingwhitespacehighlighter
+redhat.vscode-yaml
+streetsidesoftware.code-spell-checker
+tushortz.python-extended-snippets
+vaughan.rdoc-readme
+VisualStudioExptTeam.vscodeintellicode
+wholroyd.jinja
 ```
