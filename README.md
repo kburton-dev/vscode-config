@@ -7,9 +7,9 @@ _The purpose is to keep my machines in sync with one another._
 ## Syncing (using Symlink)
 
 ```
-ln -s ~/Projects/vscode-config/settings.json ~/.config/Code/User/settings.json
-ln -s ~/Projects/vscode-config/keybindings.json ~/.config/Code/User/keybindings.json
-ln -s ~/Projects/vscode-config/snippets ~/.config/Code/User/snippets/
+ln -s ~/projects/vscode-config/settings.json ~/.config/Code/User/settings.json
+ln -s ~/projects/vscode-config/keybindings.json ~/.config/Code/User/keybindings.json
+ln -s ~/projects/vscode-config/snippets ~/.config/Code/User/
 ```
 
 ### Windows
@@ -26,7 +26,6 @@ code --install-extension atlassian.atlascode
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
-code --install-extension EditorConfig.EditorConfig
 code --install-extension fabiospampinato.vscode-diff
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
