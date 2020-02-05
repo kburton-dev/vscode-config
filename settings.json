@@ -1,15 +1,15 @@
 {
 	"editor.renderWhitespace": "boundary",
 	"editor.detectIndentation": true,
-	"editor.insertSpaces": false,
+	"editor.insertSpaces": true,
 	"editor.tabSize": 4,
 	"workbench.settings.editor": "json",
 	"explorer.autoReveal": false,
 	"editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
 	"editor.minimap.enabled": false,
 	"window.zoomLevel": 0,
-	"editor.rulers": [120],
-	"editor.fontSize": 13.5,
+	"editor.rulers": [79],
+	"editor.fontSize": 12.5,
 	"editor.fontLigatures": false,
 	"editor.snippetSuggestions": "top",
 	"editor.tabCompletion": "on",
@@ -71,7 +71,7 @@
 	"gitlens.historyExplorer.enabled": false,
 	"gitlens.codeLens.enabled": false,
 	"gitlens.views.repositories.enabled": false,
-	"gitlens.views.fileHistory.enabled": false,
+	"gitlens.views.fileHistory.enabled": true,
 	"gitlens.views.lineHistory.enabled": false,
 	"git.enableSmartCommit": true,
 	"php.suggest.basic": false,
@@ -79,11 +79,19 @@
 		"baseUrlSuffix": "atlassian.net"
 	},
 	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
 	},
 	"yaml.schemas": {
-		"file:///home/kyleb/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+		"file:///home/kyle/.vscode/extensions/atlassian.atlascode-2.3.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
 	},
 	"files.associations": {
 		"*.ctp": "php"
-	}
+	},
+	"atlascode.jira.lastCreateSiteAndProject": {
+		"siteId": "empty",
+		"projectKey": ""
+	},
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"python.jediEnabled": false
 }

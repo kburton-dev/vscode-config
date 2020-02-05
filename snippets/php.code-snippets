@@ -21,7 +21,7 @@
 		"body": [
 			"<?php if (${1:condition}): ?>",
 			"",
-			"<?php endif; ?>"
+			"<?php endif ?>"
 		],
 		"description": "PHP alternative syntax for control structures: if"
 	},
@@ -31,7 +31,7 @@
 		"body": [
 			"<?php foreach (${1:array} as ${2:key} => ${3:value}): ?>",
 			"",
-			"<?php endforeach; ?>"
+			"<?php endforeach ?>"
 		],
 		"description": "PHP alternative syntax for control structures: foreach"
 	},
@@ -101,7 +101,7 @@
 			"",
 			"<?= \\$this->Form->end() ?>"
 		],
-		"description": "Console.log"
+		"description": "Generate cake form"
 	},
 	"php-class-debug": {
 		"prefix": "cm",
