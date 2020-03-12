@@ -53,6 +53,11 @@ kokororin.vscode-phpfmt
 magicstack.MagicPython
 ms-azuretools.vscode-docker
 ms-python.python
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode-remote.remote-wsl
+ms-vscode-remote.vscode-remote-extensionpack
 msjsdiag.vscode-react-native
 neilbrayfield.php-docblocker
 octref.vetur

@@ -82,7 +82,7 @@
 		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
 	},
 	"yaml.schemas": {
-		"file:///home/kyle/.vscode/extensions/atlassian.atlascode-2.3.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+		"file:///home/kyle/.vscode/extensions/atlassian.atlascode-2.4.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
 	},
 	"files.associations": {
 		"*.ctp": "php"
@@ -93,5 +93,6 @@
 	},
 	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	"python.jediEnabled": false
+	"python.jediEnabled": false,
+	"editor.columnSelection": false
 }
