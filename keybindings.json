@@ -2,17 +2,5 @@
 	{
 		"key": "ctrl+t",
 		"command": "workbench.action.terminal.toggleTerminal"
-	},
-	{
-		"key": "ctrl+shift+d",
-		"command": "-workbench.view.debug"
-	},
-	{
-		"key": "ctrl+shift+d",
-		"command": "-workbench.view.debug"
-	},
-	{
-		"key": "ctrl+shift+d",
-		"command": "-workbench.view.debug"
 	}
 ]
