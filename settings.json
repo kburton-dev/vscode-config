@@ -84,7 +84,7 @@
 	"[php]": {
 	},
 	"yaml.schemas": {
-		"file:///c%3A/Users/Kyle/.vscode/extensions/atlassian.atlascode-2.8.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+		"file:///c%3A/Users/User/.vscode/extensions/atlassian.atlascode-2.8.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
 	},
 	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",

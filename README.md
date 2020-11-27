@@ -22,7 +22,6 @@ mklink /J %HOMEPATH%\AppData\Roaming\Code\User\snippets snippets
 ## Installed Extensions
 
 ```
-code --install-extension AleksandarDev.vscode-sequence-diagrams
 code --install-extension atlassian.atlascode
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension dbaeumer.vscode-eslint
@@ -47,10 +46,10 @@ code --install-extension pajdziu.trailingwhitespacehighlighter
 code --install-extension redhat.vscode-yaml
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension vaughan.rdoc-readme
+code --install-extension dart-code.flutter
 ```
 
 ```
-AleksandarDev.vscode-sequence-diagrams
 atlassian.atlascode
 bmewburn.vscode-intelephense-client
 dbaeumer.vscode-eslint
@@ -75,4 +74,5 @@ pajdziu.trailingwhitespacehighlighter
 redhat.vscode-yaml
 streetsidesoftware.code-spell-checker
 vaughan.rdoc-readme
+dart-code.flutter
 ```
